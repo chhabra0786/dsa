@@ -1,0 +1,13 @@
+git status
+git add .
+git commit -m "Fixed infinite loop in bitcount function"
+git push origin main
+
+
+
+#include <iostream>
+using namespace std;
+int main(){
+    return 0;
+    
+}
