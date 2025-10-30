@@ -33,3 +33,9 @@
 
 //     return 0;
 // }
+//https://www.naukri.com/code360/problems/find-unique_625159?source=youtube&campaign=love_babbar_codestudio1&leftPanelTabValue=SUBMISSION
+//Occurance of unique element 
+// https://leetcode.com/problems/unique-number-of-occurrences/ 
+
+//duplicate numbers
+//https://www.naukri.com/code360/problems/duplicate-in-array_893397?source=youtube&campaign=love_babbar_codestudio1&leftPanelTabValue=SUBMISSION
